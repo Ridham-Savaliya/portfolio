@@ -9,16 +9,16 @@ const projects = [
     title: "Formboost - Form Builder",
     description: "Effortlessly collect data with just a few clicks—connect your form and receive submissions directly to your email. No backend required!",
     image: lmg3,
-    github: "https://github.com",
-    live: "https://demo.com",
+    github: "https://github.com/rachanawebtech/formboost-admin.git",
+    // live: "https://demo.com",
     tech: ["React js", "Node js", "Sequelize", "Mysql Workbench", "Express", "Tailwind CSS"]
   },
   {
     title: "Quickbites - Food Delivery App",
     description: "QuickBites is a food delivery app with Admin, Seller, Delivery, and User panels for seamless order management and real-time updates.",
     image: lmg1,
-    github: "https://github.com",
-    live: "https://demo.com",
+    github: "https://github.com/dhruviksavaliya1212/Quick_Bites",
+    live: "https://quick-bites-frontend-six.vercel.app",
     tech: ["React js", "Node.js", "Express", "MongoDB", "Tailwind CSS"]
   },
   {
@@ -26,7 +26,7 @@ const projects = [
     description: "Notify is a Student Notice Management System designed to streamline communication between administrators and students.",
     image: lmg2,
     github: "https://github.com",
-    live: "https://demo.com",
+    // live: "https://demo.com",
     tech: ["React js", "Node.js", "Express", "MongoDB", "Tailwind CSS"]
   }
 ];
